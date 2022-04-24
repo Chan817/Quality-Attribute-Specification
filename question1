@@ -1,0 +1,16 @@
+1-
+a. 
+Source of stimulus: the owner of Cinema
+Stimulus: enhance Security system for purchase ticket using Credit Cards by detecting false information in credit card
+Environment: System
+Artifact: under normal operations
+Response: ticketing system stops processing process and directs to error message when user entered false credit card information 
+Response measure: system successfully detect errors 100% under 5 seconds
+
+b.
+Source of stimulus: the owner of Cinema
+Stimulus: increase the performance of booking tickets 
+Environment: System
+Artifact: under normal operations
+Response: process transaction of booking tickets 
+Response measure: with average latency of 2 seconds and process 1000 transactions per second
